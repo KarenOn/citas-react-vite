@@ -126,7 +126,7 @@ const Form = ({ pacientes, setPacientes, paciente, setPaciente }) => {
             </div>
             <div className='mb-5'>
                 <label htmlFor='sintomas' className='block text-gray-700 uppercase font-bold'>
-                    Nombre Propietario
+                    Síntomas
                 </label>
                 <textarea 
                 id="sintomas" 
